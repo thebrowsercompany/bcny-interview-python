@@ -35,7 +35,8 @@
     <li>
         Verify Python is installed<br>
         <b>Windows Example:</b>
-        <pre><code>C:\bcny-interview-python> python --version<br>Python 3.12.3</code></pre>
+        <pre><code>C:\bcny-interview-python> python --version<br>
+Python 3.12.3</code></pre>
         * Note that your environment command may be <code>python3 --version</code> instead.
     </li><br>
     <li>
@@ -49,9 +50,11 @@
         <pre><code>C:\bcny-interview-python> C:\bcny-interview-python\.venv\Scripts\activate</code><br>(venv) C:\bcny-interview-python></pre>
         If you've opened PowerShell instead of Windows command line, you can enter venv this way:<br>
         <b>Windows PowerShell Example:</b>
-        <pre><code>C:\bcny-interview-python> .\.venv\Scripts\activate<br>(venv) C:\bcny-interview-python></code></pre>
+        <pre><code>C:\bcny-interview-python> .\.venv\Scripts\activate<br>
+(venv) C:\bcny-interview-python></code></pre>
         <b>Linux / macOS Example:</b>
-        <pre><code> ~/bcny-interview-python$ .venv/bin/activate<br>(venv) bcny-interview-python$</code></pre>
+        <pre><code> ~/bcny-interview-python$ .venv/bin/activate<br>
+(venv) bcny-interview-python$</code></pre>
     </li>
     <li>
         Verify pip is working by installing <code>requirements.txt</code><br>
@@ -61,9 +64,11 @@
     <li>
         Verify Python can run<br>
         <b>Windows Example:</b>
-        <pre><code>(venv) C:\bcny-interview-python> python hello_world.py<br>Hello Arc!</code></pre>
+        <pre><code>(venv) C:\bcny-interview-python> python hello_world.py<br>
+Hello Arc!</code></pre>
         <b>Linux / macOS Example:</b>
-        <pre><code>(venv) bcny-interview-python$ python hello_world.py<br>Hello Arc!</code></pre>
+        <pre><code>(venv) bcny-interview-python$ python hello_world.py<br>
+Hello Arc!</code></pre>
     </li>
 </ol>
 
