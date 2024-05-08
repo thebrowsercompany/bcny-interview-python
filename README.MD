@@ -57,11 +57,6 @@ Python 3.12.3</code></pre>
 (venv) bcny-interview-python$</code></pre>
     </li>
     <li>
-        Verify pip is working by installing <code>requirements.txt</code><br>
-        <b>Windows Example:</b>
-        <pre><code>(venv) C:\bcny-interview-python> pip install -r requirements.txt</code></pre>
-    </li>
-    <li>
         Verify Python can run<br>
         <b>Windows Example:</b>
         <pre><code>(venv) C:\bcny-interview-python> python hello_world.py<br>
